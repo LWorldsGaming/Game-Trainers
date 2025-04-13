@@ -1,0 +1,14 @@
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\bin\Release\AssaultCubeTrainer.exe.config
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\bin\Release\AssaultCubeTrainer.exe
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\bin\Release\AssaultCubeTrainer.pdb
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\bin\Release\Memory.dll
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\bin\Release\Memory.pdb
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\bin\Release\Memory.xml
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\obj\Release\AssaultCubeTrainer.csproj.AssemblyReference.cache
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\obj\Release\AssaultCubeTrainer.Form1.resources
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\obj\Release\AssaultCubeTrainer.Properties.Resources.resources
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\obj\Release\AssaultCubeTrainer.csproj.GenerateResource.cache
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\obj\Release\AssaultCubeTrainer.csproj.CoreCompileInputs.cache
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\obj\Release\AssaultC.F99D4A91.Up2Date
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\obj\Release\AssaultCubeTrainer.exe
+E:\Visual Studio\AssaultCubeTrainer\AssaultCubeTrainer\obj\Release\AssaultCubeTrainer.pdb

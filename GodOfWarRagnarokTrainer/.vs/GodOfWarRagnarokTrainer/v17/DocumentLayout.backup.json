@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\GodOfWarRagnarokTrainer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1380A713-C546-4DB6-895D-80B6377B5055}|GodOfWarRagnarokTrainer\\GodOfWarRagnarokTrainer.csproj|E:\\Visual Studio\\GodOfWarRagnarokTrainer\\godofwarragnaroktrainer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1380A713-C546-4DB6-895D-80B6377B5055}|GodOfWarRagnarokTrainer\\GodOfWarRagnarokTrainer.csproj|solutionrelative:godofwarragnaroktrainer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1380A713-C546-4DB6-895D-80B6377B5055}|GodOfWarRagnarokTrainer\\GodOfWarRagnarokTrainer.csproj|e:\\visual studio\\godofwarragnaroktrainer\\godofwarragnaroktrainer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1380A713-C546-4DB6-895D-80B6377B5055}|GodOfWarRagnarokTrainer\\GodOfWarRagnarokTrainer.csproj|solutionrelative:godofwarragnaroktrainer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1380A713-C546-4DB6-895D-80B6377B5055}|GodOfWarRagnarokTrainer\\GodOfWarRagnarokTrainer.csproj|e:\\visual studio\\godofwarragnaroktrainer\\godofwarragnaroktrainer\\keys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1380A713-C546-4DB6-895D-80B6377B5055}|GodOfWarRagnarokTrainer\\GodOfWarRagnarokTrainer.csproj|solutionrelative:godofwarragnaroktrainer\\keys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Visual Studio\\GodOfWarRagnarokTrainer\\GodOfWarRagnarokTrainer\\Form1.cs",
+              "RelativeDocumentMoniker": "GodOfWarRagnarokTrainer\\Form1.cs",
+              "ToolTip": "E:\\Visual Studio\\GodOfWarRagnarokTrainer\\GodOfWarRagnarokTrainer\\Form1.cs [Design]",
+              "RelativeToolTip": "GodOfWarRagnarokTrainer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:35:14.921Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\GodOfWarRagnarokTrainer\\GodOfWarRagnarokTrainer\\Form1.cs",
+              "RelativeDocumentMoniker": "GodOfWarRagnarokTrainer\\Form1.cs",
+              "ToolTip": "E:\\Visual Studio\\GodOfWarRagnarokTrainer\\GodOfWarRagnarokTrainer\\Form1.cs",
+              "RelativeToolTip": "GodOfWarRagnarokTrainer\\Form1.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAEwJ8AAADpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T07:35:25.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Keys.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\GodOfWarRagnarokTrainer\\GodOfWarRagnarokTrainer\\Keys.cs",
+              "RelativeDocumentMoniker": "GodOfWarRagnarokTrainer\\Keys.cs",
+              "ToolTip": "E:\\Visual Studio\\GodOfWarRagnarokTrainer\\GodOfWarRagnarokTrainer\\Keys.cs",
+              "RelativeToolTip": "GodOfWarRagnarokTrainer\\Keys.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAADcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T08:27:02.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

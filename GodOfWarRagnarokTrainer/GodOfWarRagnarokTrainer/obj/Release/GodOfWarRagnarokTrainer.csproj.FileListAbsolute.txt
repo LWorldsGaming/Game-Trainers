@@ -1,0 +1,16 @@
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\bin\Release\GodOfWarRagnarokTrainer.exe.config
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\bin\Release\GodOfWarRagnarokTrainer.exe
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\bin\Release\GodOfWarRagnarokTrainer.pdb
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\bin\Release\Memory.dll
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\bin\Release\Memory.pdb
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\bin\Release\Memory.xml
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\obj\Release\GodOfWarRagnarokTrainer.csproj.AssemblyReference.cache
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\obj\Release\GodOfWarRagnarokTrainer.Form1.resources
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\obj\Release\GodOfWarRagnarokTrainer.Properties.Resources.resources
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\obj\Release\GodOfWarRagnarokTrainer.csproj.GenerateResource.cache
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\obj\Release\GodOfWarRagnarokTrainer.csproj.CoreCompileInputs.cache
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\obj\Release\GodOfWar.90A2AF89.Up2Date
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\obj\Release\GodOfWarRagnarokTrainer.exe
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\obj\Release\GodOfWarRagnarokTrainer.pdb
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\bin\Release\System.Security.Principal.Windows.dll
+E:\Visual Studio\GodOfWarRagnarokTrainer\GodOfWarRagnarokTrainer\bin\Release\System.Security.Principal.Windows.xml
