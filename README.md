@@ -1,1 +1,1 @@
-Cheat trainers for games
+Cheat trainers for games made with Memory.dll
